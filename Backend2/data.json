@@ -1,0 +1,12 @@
+{
+    "data" :[
+    {"id": 1, "name": "Iphone 14", "amount":3200, "cost":347},
+    {"id": 2, "name": "Samsung S22 Ultra", "amount":2500, "cost":689},
+    {"id": 3, "name": "Xiaomi Redmi 12S", "amount":870, "cost":322},
+    {"id": 4, "name": "Olkitel K6000 Pro", "amount":780, "cost":674},
+    {"id": 5, "name": "Huawei MediaPad T18.0", "amount":300, "cost":875},
+    {"id": 6, "name": "ACER Aspire E5-575G", "amount":1200, "cost":543},
+    {"id": 7, "name": "Lenovo Ideapad", "amount":1000, "cost":875},
+    {"id": 8, "name": "HP OMEN", "amount":2500, "cost":532}
+    ]
+}
